@@ -1,0 +1,13 @@
+# 依赖
+node_modules/
+
+# 构建/备份产物
+*.bak
+*.bak-*
+*.log
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
